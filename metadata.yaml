@@ -1,0 +1,49 @@
+_repo: Here-and-beyond_74742
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Caswell, Edward C.
+    alias: Caswell, E. C. (Edward C.)
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '31826'
+    url: http://www.gutenberg.org/2009/agents/31826
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edith_Wharton
+    - https://fr.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_issued: '2024-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74742'
+  lccn: '26009574'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001188215
+pgterms:marc905: 20240227100245wharton
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bD. Appleton and Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Miss Mary Pask -- The young gentlemen -- Bewitched -- The seed of
+  the faith -- The temperate zone -- Velvet ear-pads.
+title: Here and beyond
+url: http://www.gutenberg.org/ebooks/74742
